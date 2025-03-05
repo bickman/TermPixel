@@ -12,7 +12,7 @@ Turn pixel image (bmp/png) to terminal AsicII block.
 
 `./TermPixel imagename.png` will generate imagename.png.txt 
 
-just use `cat imagename.png.txt` to show the pixel acicII block in terminal.
+just use `cat imagename.png.txt` to show the pixel asicII block in terminal.
 
 ## Show 
 ![screenshot](Images/sreenshot01.png)
