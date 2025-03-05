@@ -6,7 +6,7 @@ Turn pixel image (bmp/png) to terminal AsicII block.
 
 ### Compile
 
-`gcc/clang TermPixel.c -o TermPixel`
+`gcc TermPixel.c -o TermPixel`
 
 ### use 
 
