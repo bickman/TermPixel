@@ -15,5 +15,5 @@ Turn pixel image (bmp/png) to terminal AsicII block.
 just use `cat imagename.png.txt` to show the pixel asicII block in terminal.
 
 ## Show 
-![screenshot](Images/sreenshot01.png)
+![screenshot](Images/screenshot01.png)
 
